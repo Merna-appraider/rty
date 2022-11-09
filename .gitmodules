@@ -1,0 +1,3 @@
+[submodule "git_submodules"]
+	path = git_submodules
+	url = https://github.com/Merna-appraider/git_submodules.git
